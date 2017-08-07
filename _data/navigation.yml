@@ -1,0 +1,13 @@
+# main links
+main:
+# - title: "Servicios"
+#  url: /services/
+# - title: "Galeria"
+#   url: /gallery/
+  - title: "Contactanos"
+    url: /about/
+  
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
