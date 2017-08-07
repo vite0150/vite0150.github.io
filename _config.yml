@@ -9,6 +9,7 @@
 locale                   : "es"
 title                    : "Soluciones Rodriguez"
 title_separator          : "-"
+future                   : true
 name                     : "Soluciones Rodriguez"
 description              : "Especialistas en sistemas de riego y jardineria."
 url                      : "https://vite0150.github.io"
