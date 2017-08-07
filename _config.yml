@@ -16,7 +16,6 @@ url                      : "https://vite0150.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vite0150/vite0150.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Bicon.png"
-header: 		teaser	 : "/assets/images/Bicon.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
