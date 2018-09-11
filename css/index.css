@@ -94,9 +94,14 @@ body {
 
 
   .bgimg {
-    background: url('../images/backgroud_fade.png') no-repeat; 
+    background: url('../images/backgroud_fade_navar.png') no-repeat; 
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
+}
+
+
+.redondo {
+  border-radius: 50%; 
 }
